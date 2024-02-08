@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AgendApp</string>
+
+    <!--User List-->
+    <string name="user_list_title">Contactos</string>
+
+    <!--User Details-->
+    <string name="detail_name_title">Nombre y apellidos</string>
+    <string name="detail_email_title">Email</string>
+    <string name="detail_genre_title">Género</string>
+    <string name="detail_registerdate_title">Fecha de registro</string>
+    <string name="detail_cell_title">Teléfono</string>
+    <string name="detail_direction_title">Dirección</string>
+    
+    <string name="detail_male">Hombre</string>
+    <string name="detail_female">Mujer</string>
+</resources>
